@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Knowledge Graph Enhanced Text Classification (AG News)
 
 This project implements a text classification pipeline using **DistilBERT**, enhanced with external knowledge from a Knowledge Graph (KG). It links entities in the text to Wikidata using `spacy-entity-linker` and appends their descriptions to the input to improve model context.
@@ -50,3 +51,4 @@ You can modify training parameters in `config.py`:
 **Start Training:**
 ```bash
 python train_model.py
+
