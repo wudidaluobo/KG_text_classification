@@ -1,0 +1,9 @@
+torch
+tensorboard
+transformers
+datasets
+pandas
+scikit-learn
+tqdm
+spacy
+spacy-entity-linker
